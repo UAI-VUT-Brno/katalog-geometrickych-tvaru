@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Rectangle",
+    "Name": "b",
+    "A": 2,
+    "B": 3,
+    "C": 0
+  },
+  {
+    "Type": "Triangle",
+    "Name": "c",
+    "A": 2,
+    "B": 3,
+    "C": 4
+  }
+]
