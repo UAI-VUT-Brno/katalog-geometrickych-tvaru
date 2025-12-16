@@ -13,7 +13,7 @@ public class UserInterface
 
     public void Run()
     {
-        Console.WriteLine("GeoShapes katalog");
+        Console.WriteLine("Vítejte v katalogu s názvem GeoShapes! Zvolte číslo:");
 
         while (true)
         {
